@@ -36,9 +36,8 @@ class LayoutDemo extends StatelessWidget {
                     height: 50,
                     child: Center(child: Text('Child 2')),
                   ),
-                      ],
-                    ),
-                  ),
+                  // Third child: Row with 3 elements
+                  
                 ],
               ),
             ),
