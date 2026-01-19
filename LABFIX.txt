@@ -1,0 +1,9 @@
+git config -–global -–add safe.directory C://Flutter/flutter
+
+In the terminal
+
+flutter doctor
+
+flutter devices
+
+flutter run -d chrome
